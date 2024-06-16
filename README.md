@@ -172,5 +172,16 @@ This documentation provides an overview of the available API endpoints for manag
    ```bash
    git clone https://github.com/KislayKashyap-hub/Node.js-Express-PostgreSQL-APIs.git
 
+## Usage
 
+1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+2. Install dependencies: `npm install`
+3. Set up your PostgreSQL database and configure `.env` file with database credentials.
+4. Run the application: `npm start`
+5. Use the provided API endpoints to manage students, courses, modules, and scores.
+6. Restore .tar backup file to get all database.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
